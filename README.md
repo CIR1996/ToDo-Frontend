@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
-[![Open in Gitpod](https://gitpod.io/button/open-ingitpod.svg)](https://gitpod.io/#https://github.com/CIR1996/ToDo-Frontend/tree/feature/gitpod-config)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CIR1996/ToDo-Frontend/tree/feature/gitpod-config)
 
 ## Development server
 
